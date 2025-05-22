@@ -1,4 +1,4 @@
-# 🍽️ Food Dev – Food Ordering Website
+# 🍽️ RUCHI – Food Ordering Website
 
 A modern food ordering application that allows users to browse, add to cart, and order food online.
 
