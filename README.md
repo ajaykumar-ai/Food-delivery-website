@@ -1,6 +1,6 @@
 # 🍽️ Ruchi | Modern Food Ordering Platform
 
-> A delightful food ordering experience built with MERN stack
+ A delightful food ordering experience built with MERN stack
 
 ## ✨ Overview
 Ruchi delivers a seamless food ordering platform with customer and admin interfaces, built using React, Node.js, Express, and MongoDB.
