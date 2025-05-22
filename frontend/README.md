@@ -1,24 +1,21 @@
+# 🍽️ Food Dev – Food Ordering Website
 
----
+A modern food ordering application that allows users to browse, add to cart, and order food online.
+
+## 📸 Preview of Website
+
+### 🏠 Home Page
+<img src="https://github.com/ajaykumar-ai/Food-delivery-website/raw/main/frontend/public/screenshots/homepage.png" alt="Homepage" width="800"/>
+
+### 🛒 Cart
+<img src="https://github.com/ajaykumar-ai/Food-delivery-website/raw/main/frontend/public/screenshots/menu-page.png" alt="Cart" width="800"/>
+
+### 🧾 Checkout
+<img src="https://github.com/ajaykumar-ai/Food-delivery-website/raw/main/frontend/public/screenshots/checkout.png" alt="Checkout" width="800"/>
 
 
-```md
- 🍽️ Food Dev – Food Ordering Website
 
-A modern frontend food ordering application that allows users to browse, add to cart, and order food online.
-
- 📸 Screenshots
-
- 🏠 Home Page  
-![Home](public/screenshots/homepage.png)
-
-🛒 Cart  
-![Cart](public/screenshots/menu-page.png)
-
- 🧾 Checkout  
-![Checkout](public/screenshots/checkout.png)
-
- 🚀 Features
+## 🚀 Features
 
 - 🍕 Browse food items and categories
 - 🛒 Add to cart & update quantities
@@ -26,17 +23,66 @@ A modern frontend food ordering application that allows users to browse, add to 
 - 📱 Responsive design using Tailwind CSS
 - 📦 Modular and clean code structure
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - React
 - Tailwind CSS
 - JavaScript
 - HTML/CSS
 
- 📦 Installation
+## 📦 Installation
 
 ```bash
 git clone https://github.com/ajaykumar-ai/Food-delivery-website.git
 cd Food-delivery-website/frontend
 npm install
 npm start
+```
+
+## 🚀 Features
+
+- 🍕 Browse food items and categories
+- 🛒 Add to cart & update quantities
+- 💳 Checkout page (UI)
+- 📱 Responsive design using Tailwind CSS
+- 📦 Modular and clean code structure
+
+## 🛠️ Tech Stack
+
+- React
+- Tailwind CSS
+- JavaScript
+- HTML/CSS
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/ajaykumar-ai/Food-delivery-website.git
+cd Food-delivery-website/frontend
+npm install
+npm start
+```
+
+## 🚀 Features
+
+- 🍕 Browse food items and categories
+- 🛒 Add to cart & update quantities
+- 💳 Checkout page (UI)
+- 📱 Responsive design using Tailwind CSS
+- 📦 Modular and clean code structure
+
+## 🛠️ Tech Stack
+
+- React
+- Tailwind CSS
+- JavaScript
+- HTML/CSS
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/ajaykumar-ai/Food-delivery-website.git
+cd Food-delivery-website/frontend
+npm install
+npm start
+```
