@@ -10,10 +10,10 @@ A modern frontend food ordering application that allows users to browse, add to 
  📸 Screenshots
 
  🏠 Home Page  
-![Home](public/screenshots/home.png)
+![Home](public/screenshots/homepage.png)
 
 🛒 Cart  
-![Cart](public/screenshots/cart.png)
+![Cart](public/screenshots/menu-page.png)
 
  🧾 Checkout  
 ![Checkout](public/screenshots/checkout.png)
